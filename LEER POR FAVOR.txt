@@ -20,6 +20,9 @@ se en via la prueba con los puntos requeridos;
 igual se puede hacer el registro de nuevos usuarios de prueba
 
 
+*** tener en cuenta el "composer install" en el direcctorio descargado desde GitHub
+
+
 
 
 
