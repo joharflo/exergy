@@ -1,0 +1,25 @@
+
+
+/// Prueba realizada por Johnny Florez
+
+//// flozjar@gmail.com
+
+///  3107233414
+
+
+se en via la prueba con los puntos requeridos;
+
+*Se utilizo Laravel 5.5
+
+   *** con su herramienta Authentication  (php artisan make:auth)
+
+*La libreria highcharts para un grafico sencillo de linea de tiempo con datos aletoriao
+
+* se anexa un SQL llamado exergy.sql ... es la base de datos e preuba con dos registros
+
+igual se puede hacer el registro de nuevos usuarios de prueba
+
+
+
+
+
